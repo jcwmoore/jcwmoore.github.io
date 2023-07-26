@@ -1,0 +1,17 @@
+baseURL = 'http://www.johnclaytonmoore.com/'
+languageCode = 'en-us'
+title = 'John-Clayton W Moore'
+theme = 'hugo-theme-flat'
+[taxonomies]
+  category='categories'
+  series='series'
+  tag='tags'
+
+
+[[params.footer_rows]]
+[[params.footer_rows.items]]
+name = "Stack Overflow"
+url = "https://stackoverflow.com/users/892723/jcwmoore"
+[[params.footer_rows.items]]
+name = "Github"
+url = "https://github.com/jcwmoore"
