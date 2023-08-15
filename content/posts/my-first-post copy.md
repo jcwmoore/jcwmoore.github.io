@@ -1,8 +1,8 @@
 ---
-title: "My First Post"
+title: "My Second Post"
 date: 2023-07-25T18:29:29-05:00
 draft: false
-categories: [Engineering, Architecture]
+categories: [Operations, Leadership]
 ---
 
 ## Introduction
