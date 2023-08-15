@@ -7,4 +7,4 @@ layout: "index"
 
 Hello World!
 
-|[Engineering](./engineering/)||
+|[Architecture](./architecture/)|[Engineering](./engineering/)|[Leadership](./leadership/)|[Operations](./operations/)|
